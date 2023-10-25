@@ -1,2 +1,6 @@
 Day1
 此部分开发内容会先于 B 合并入 Main
+
+Day2
+如果自从 A 分出 Main 后，B 分支有对 Main 的提交，GitHub 就会显示 this branch is x commits behind main. 
+需要将 Main 的内容合并到自己这里，注意解决冲突。
