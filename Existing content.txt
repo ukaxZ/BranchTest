@@ -24,3 +24,5 @@ Day5：
 然后，A进行了第五天对历史文件的修改。
 在修改前，Main 中的历史文件没有解决冲突的 Commit History，而 A 中则有这条 History.
 现在，检查合并到 Main 后会不会出现冲突 Commit。
+
+一个文件的 Commit History 中可以有 TextA + TextB，TextA + TextC 共存的记录，只是后面肯定会有一个解决冲突的记录。
