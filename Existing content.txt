@@ -5,3 +5,4 @@ FOSDINVOZSCVNXXZVCONA
 
 Day2：
 B 也对曾经的文件进行了修改
+结论：A 和 B 不能同时对曾经的相同文件进行修改，否则就要解决冲突
