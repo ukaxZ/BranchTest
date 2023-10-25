@@ -1,6 +1,6 @@
 前三个月：
 QWERTYUIOASDAGHSVFZXC
-ASDASFQOIUHFBOIUCFQWD
+ASDASFQOIUHFBAAAAAAAD
 FOSDINVOZSCVNXXZVCONA
 
 Day2：
@@ -13,3 +13,7 @@ Day3：
 到了第三天，A 合并 Main 时，自己的冲突内容也会被解决冲突的 Commit 修改。丢失了！
 
 Git 对文件的管理，其实就是对每个文件的一个个 Commit History。
+
+Day4：
+其他开发人员修改了历史文件，A 没有参与
+A合并时，直接可以成功。
